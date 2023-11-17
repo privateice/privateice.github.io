@@ -1,0 +1,30 @@
+p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: normal;
+	color: #336666;
+	text-indent: 0.25in;
+}
+b {  font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; color: #336666}
+i {  font-family: Verdana, Arial, Helvetica, sans-serif; font-style: italic; color: #336666}
+
+h1 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 24pt; font-weight: bold; line-height: normal; color: #660066}
+h2 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 18pt; font-weight: normal; line-height: normal;  color: #660066}
+h3 {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14pt; font-weight: normal; line-height: normal; color: #660066}
+
+a {  font-family: Verdana, Arial, Helvetica, sans-serif; color: #336699; font-weight: bold}
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #336666;
+}
+div {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #336666;
+}
+td {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #336666;
+}
