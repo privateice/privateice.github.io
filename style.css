@@ -36,3 +36,15 @@ td {
 .column {
   flex: 50%;
 }
+
+.header {
+	display: flex;
+}
+
+.titles {
+	flex:75%;
+}
+
+img.PI_logo {
+	flex:25%
+}
