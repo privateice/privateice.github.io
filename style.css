@@ -29,10 +29,10 @@ td {
 	color: #336666;
 }
 
-div.left_col {
-	float: left;
+.row {
+  display: flex;
 }
 
-div.right_col {
-	float: right;
+.column {
+  flex: 50%;
 }
