@@ -49,9 +49,16 @@ img.PI_logo {
 	flex:25%
 }
 
-@media only screen and (max-width: 768px) {
+@media (max-width: 768px) {
   /* For mobile phones: */
+  .header {
+    display: flex;
+    flex-wrap: wrap;
+  }
   .column {
-    width: 100%;
+    flex: 100%;
+  }
+  .row {
+    flex-wrap: wrap;
   }
 }
