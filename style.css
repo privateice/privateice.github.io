@@ -54,6 +54,10 @@ img.PI_logo {
 	flex:25%
 }
 
+li.noBullet {
+      list-style-type: none;
+}
+
 @media (max-width: 768px) {
   /* For mobile phones: */
   .header {
